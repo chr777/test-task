@@ -11,11 +11,10 @@ Fork this repo and send us a link to the repo with your results.
 
 ## Requirements
 
- - Use Redux as state mangement tool
+ - Use Redux as state management tool
  - Use [jdenticon](https://github.com/dmester/jdenticon) to generate avatars (email as input)
  - Use Tailwind for styling
- - will be a plus if you use https://miragejs.com  tools to create api-s and use them in application
- - if you are not using mirageJS please use Redux Persist to store data in localstorage
+ - using Redux Persist to store data in localstorage will be a plus
  - Show us best practices you know 
 
 ## Anything else?
